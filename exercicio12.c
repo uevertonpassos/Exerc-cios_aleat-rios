@@ -15,3 +15,5 @@ void main(){
     }
     printf("Acabou!");
 }
+// um dia vc vai agradecer por passar por isso
+// 27 de fevereiro de 2023
