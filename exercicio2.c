@@ -4,4 +4,4 @@ void main(){
     printf("agora foi?\n ");
 
 }
-//posso?
+//got a point
