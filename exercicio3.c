@@ -13,5 +13,4 @@ void main(){
     soma = num1 + num2;
     printf("A soma entre %d e %d vale: %d\n",num1, num2, soma);
 
-
 }
